@@ -4,6 +4,9 @@ __pycache__/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# animations
+*.gif
+
 # my_files
 
 # my folders
